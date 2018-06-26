@@ -1,0 +1,9 @@
+a=10.5
+b=2
+print("A+B:=",a+b)#Addintion Operation
+print("A-B:=",a-b)# Subtration Operation
+print("A*B:=",a*b)# Multiple Operation
+print("A/B:=",a/b)# Division Operation
+print("A//B:=",a//b)#Floor Division Operation
+print("A%B:=",a%b)# Muduler Operation
+print("A**B;=",a**b)# Power Operation

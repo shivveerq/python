@@ -1,0 +1,11 @@
+a='durgasoftware'
+a[0]
+print(a[1])
+print(a[3])
+print(a[-1])
+print(a[2:4])
+print(a[1:9:2])
+print(a[0:10:3])
+print(a)
+a*3
+print(a*3)

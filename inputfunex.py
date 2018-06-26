@@ -1,0 +1,5 @@
+a= input("Enter Ist Number:")
+b= input("Enter Second Number:")
+print("Sum of two number is :",a+b)
+print("Subtraction of two number", a-b)
+print("multiply of two number",a*b)
